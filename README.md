@@ -12,3 +12,4 @@ The different tables in this structured database shall be-
 7. Payment - payment date and details
 8. Transaction Reports - Complete report of the overall transaction
 
+C:\Users\Mebal Chaudhary\Downloads\Screenshot 2022-03-11 142640.png
