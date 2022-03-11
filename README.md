@@ -12,5 +12,7 @@ The different tables in this structured database shall be-
 7. Payment - payment date and details
 8. Transaction Reports - Complete report of the overall transaction
 
+ERD Workbench
+
 ![Screenshot 2022-03-11 142640](https://user-images.githubusercontent.com/93568374/157835313-44aff0b3-54d0-46dd-8feb-cf2b2fc5a4a9.png)
 
